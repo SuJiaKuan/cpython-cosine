@@ -1,6 +1,6 @@
 # cpython-cosine
 
-An example to binding Python with C. The example provides three methods to pass Python objects to C:
+An example to show how to bind Python with C. The example provides three methods to pass Python objects to C:
 
 - A float object
 - A numpy ndarray
